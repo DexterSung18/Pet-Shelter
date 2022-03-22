@@ -7,7 +7,7 @@ import { Link } from "@reach/router";
 const DisplayOneVet = (props) => {
     const {id} = props
     const [vetData, setVetData] = useState({})
-    const [petData, setPetData] = useState([])
+    // const [petData, setPetData] = useState([])
     useEffect(() => {
         axios
         .get(`http://localhost:8000/api/vet/${id}`)

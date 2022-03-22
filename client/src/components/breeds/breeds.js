@@ -1,6 +1,6 @@
 const breeds = {
-    "Dog": ['Golden Retriever', 'Husky', 'German Shepherd', 'Akita', 'Poodle', 'Chihuahua', 'Samoyed'],
-    "Cat": ['Domestic Short Hair', 'Domestic Long Hair', 'Domestic Medium Hair', 'Siamese', 'Ragdoll']
+    "Dog": ['Akita', "Boxer", 'German Shepherd', 'Golden Retriever', 'Pug'],
+    "Cat": ['American Shorthair', 'American Wirehair', 'Persian', 'Ragdoll', 'Siamese']
 }
 
 export default breeds;

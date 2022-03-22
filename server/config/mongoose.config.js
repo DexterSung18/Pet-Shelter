@@ -1,5 +1,5 @@
 const mongoose = require('mongoose');
-//This will create a database named "person" if one doesn't already exist (no need for mongo shell!):
+
 mongoose.connect("mongodb://localhost/pet_shelter", { 
     useNewUrlParser: true, 
     useUnifiedTopology: true,

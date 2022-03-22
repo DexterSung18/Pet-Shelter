@@ -8,3 +8,4 @@ module.exports = (app) => {
     app.delete("/api/pet/:id", petCtrl.deletePet);
     app.put("/api/pet/:id", petCtrl.updatePet);
 }
+

@@ -42,7 +42,7 @@ const DisplayOne = (props) => {
                 <p><span className="bold">Description:</span> <span className="description-name">{petData.description}</span></p>
                 <p><span className="bold">Age:</span> <span className="pet-details-age">{petData.age}</span></p>
                 <p><span className="bold">Weight:</span> <span className="pet-weight">{petData.weight} lbs</span></p>
-                <p><span className="bold">Vet Name:</span> <span className="pet-vet-name">{petData.vetname}</span> </p>
+                {/* <p><span className="bold">Vet Name:</span> <span className="pet-vet-name">{petData.vetname}</span> </p> */}
             </div>
         </div>
     )

@@ -22,6 +22,8 @@ const DisplayAll = () => {
             <h1 className="pet-shelter-form">Pet Shelter</h1>
             <Link className="back-to-home-link" to={"/pets/new"}>add a pet</Link>
             <Link to={"/vets/new"}>add a vet</Link>
+            <Link className = "dog-link" to={"/pet/dogbreeds"}>Learn about Dog Breeds</Link>
+            <Link to={"/pet/catbreeds"}>Learn about Cat Breeds</Link>
             </div>
             <p className="pet-need-home">Please add a Vet first.</p>
             <p className="pet-need-home">These pets are looking for a good home</p>
