@@ -7,7 +7,7 @@
 
   <p align="center">
     An app designed for workers in an animal shelter. It lets employees input dogs or cats and assign a vet to each animal. Two APIs are 
-    used to display dog and cat breed information.
+    called from to display dog and cat breed information.
   </p>
 </div>
 
