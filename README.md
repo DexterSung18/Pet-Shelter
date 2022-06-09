@@ -6,8 +6,8 @@
 <h3 align="center">Pet Shelter</h3>
 
   <p align="center">
-    project_description
-   
+    An app designed for workers in an animal shelter. It lets employees input dogs or cats and assign a vet to each animal. Two APIs are 
+    used to display dog and cat breed information.
   </p>
 </div>
 
@@ -30,7 +30,7 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 * [Express](https://expressjs.com/)
 * [React.js](https://reactjs.org/)
 * [Node.js](https://nodejs.org/en/)
-* 
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
